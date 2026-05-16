@@ -1,0 +1,1 @@
+# Forest-Fire-Prediction-Categorized-Severity-using-Machine-Learning
