@@ -9,6 +9,7 @@ https://archive.ics.uci.edu/dataset/162/forest+fires
 
 📊 Kaggle Code Link:
 https://www.kaggle.com/code/samiamalihalamin/forest-fires-categorized-severity
+
 ---
 
 ## 📁 Dataset Information
